@@ -20,6 +20,5 @@
 
     <import resource="classpath:spring/spring-*.xml" />
     <!-- 应用初始化 -->
-   <!-- <bean class="com.jd.jr.pos.base.init.StartupInit" init-method="init" />-->
 
 </beans>
